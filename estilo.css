@@ -1,0 +1,21 @@
+body {
+    background-color: blue;
+}
+
+.main{
+    background-color: coral;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.header {
+    float: left;
+}
+
+.columna-der{
+    float: left;
+}
+
+.columna-izq {
+    float: left;
+}
